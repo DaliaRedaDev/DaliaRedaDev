@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_umzw8tumzw8tumzw" src="https://github.com/user-attachments/assets/d9adfcf5-abf3-4638-b3fd-26e2d7161eeb" />
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <div align="center">
