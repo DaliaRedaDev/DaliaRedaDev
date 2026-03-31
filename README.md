@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://blog.id.st/wp-content/uploads/2021/04/work-from-home.gif" width="600" alt="Dalia Coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpobjF6bmZ2Ymt2eG5qZzRyeG5qZzRyeG5qZzRyeG5qZzRyeG5qZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y34iE5o0wzR96/giphy.gif" width="450" />
 </p>
 
 ---
