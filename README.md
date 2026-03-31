@@ -1,13 +1,11 @@
-<img width="1408" height="768" alt="Gemini_Generated_Image_umzw8tumzw8tumzw" src="https://github.com/user-attachments/assets/d9adfcf5-abf3-4638-b3fd-26e2d7161eeb" />
+
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0f7b65&vCenter=true&width=600&height=100&lines=Hello;I'm+Dalia+Reda+👑;Frontend+Developer" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpobjF6bmZ2Ymt2eG5qZzRyeG5qZzRyeG5qZzRyeG5qZzRyeG5qZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y34iE5o0wzR96/giphy.gif" width="450" />
-</p>
+<img width="1408" height="768" alt="Gemini_Generated_Image_umzw8tumzw8tumzw" src="https://github.com/user-attachments/assets/d9adfcf5-abf3-4638-b3fd-26e2d7161eeb" />
 
 ---
 
