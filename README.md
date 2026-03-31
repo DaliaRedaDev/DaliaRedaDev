@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.ibb.co/C5g2HkM/dalia-header-animation.gif" width="100%" />
+  <img src="https://blog.id.st/wp-content/uploads/2021/04/work-from-home.gif" width="600" alt="Dalia Coding" />
 </p>
 
 ---
