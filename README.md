@@ -29,9 +29,8 @@
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaliaRedaDev&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github.com/user-attachments/assets/6edaa256-f80b-47a1-80b9-2a6fd2e31605" width="100%" />
 </p>
 
 ---
