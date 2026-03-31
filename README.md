@@ -31,7 +31,7 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhgchy1-commits&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaliaRedaDev&show_icons=true&theme=tokyonight" width="400" />
 </p>
 
 ---
