@@ -1,11 +1,12 @@
 
+
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0f7b65&vCenter=true&width=600&height=100&lines=Hello;I'm+Dalia+Reda+👑;Frontend+Developer" />
 </div>
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_umzw8tumzw8tumzw" src="https://github.com/user-attachments/assets/d9adfcf5-abf3-4638-b3fd-26e2d7161eeb" />
+https://github.com/user-attachments/assets/f630c1b8-b583-4e4f-9cd3-a5cda0b84f57
 
 ---
 
