@@ -2,9 +2,7 @@
 
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0f7b65&vCenter=true&width=600&height=100&lines=Hello;I'm+Dalia+Reda+👑;Frontend+Developer" />
-</div>
+
 
 ![8f56acc92f1d20482533a638afcb94cf](https://github.com/user-attachments/assets/08c3afba-5874-4c56-ac26-f74fb89709b2)
 
