@@ -4,7 +4,9 @@
 
 
 
-![8f56acc92f1d20482533a638afcb94cf](https://github.com/user-attachments/assets/08c3afba-5874-4c56-ac26-f74fb89709b2)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08c3afba-5874-4c56-ac26-f74fb89709b2" width="100%" />
+</p>(https://github.com/user-attachments/assets/08c3afba-5874-4c56-ac26-f74fb89709b2)
 
 
 ---
